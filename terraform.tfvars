@@ -1,0 +1,11 @@
+propertyName = "demo-property-nine-1-DJ"
+section = "default"
+groupName = "DJ"
+hostname = "www.demo-nine-1-DJ.com"
+cpCodeName = "demo-nine-DJ"
+productId = "prd_SPM"
+ruleFormat = "latest"
+email = ["xxx@zzz.com"]
+activationNote = "Activated via. Terraform"
+originValue = "petstore.swagger.io"
+edgeHostname = "xxxx.config.rapid.edgesuite.net"

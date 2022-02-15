@@ -12,5 +12,4 @@ pool:
 container: akamai/shell:latest
 
 steps:
-- script: terraform init
-  displayName: 'Run a one-line script'
+- script: echo hello
